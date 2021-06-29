@@ -8,12 +8,12 @@ Hi there 👋, I'm Eslam from Egypt, and I working in the Software Development f
 - 📫 You can reach me: via [LinkedIn](https://www.linkedin.com/in/eslam-sallam-3312b0173/) or Email me on [Gmail](eslam.salam1369@gmail.com)
 
 ## Skills and Experience
-●	ASP.Net Core & MVC
-●	C# & VB.net & Python
-●	Data Structures
-●	Visual studio 2019 (live share, Git tools, Adv. Debugging, Testing, Code Analysis)
-●	MYSQL & MSSQL & Oracle DB
-●	HTML & CSS & JavaScript & Bootstrap & Ajax
+*	ASP.Net Core & MVC
+*	C# & VB.net & Python
+*	Data Structures
+*	Visual studio 2019 (live share, Git tools, Adv. Debugging, Testing, Code Analysis)
+*	MYSQL & MSSQL & Oracle DB
+*	HTML & CSS & JavaScript & Bootstrap & Ajax
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=EslamSallam&theme=tokyonight&count_private=true&hide=HTML,CSS,javascript&langs_count=3">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EslamSallam&theme=tokyonight&count_private=true&hide=HTML,CSS,javascript&langs_count=3" />
