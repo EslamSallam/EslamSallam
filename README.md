@@ -13,4 +13,8 @@ Hi there 👋, I'm Eslam from Egypt, and I working in the Software Development f
 ![EslamSallam's GitHub stats](https://github-readme-stats.vercel.app/api?username=EslamSallam&show_icons=true&theme=radical&count_private=true&show_icons=true&hide=prs,issues,contribs)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EslamSallam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
