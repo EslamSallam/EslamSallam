@@ -1,4 +1,5 @@
 # Eslam Sallam
+![](https://komarev.com/ghpvc/?username=EslamSallam&color=blue)
 
 Hi there 👋, I'm Eslam from Egypt, and I working in the Software Development field as a .Net Developer Creating (Desktop and Web Apps). I really enjoy learning languages and frameworks. I do care about writing clean and maintainable code.
 
