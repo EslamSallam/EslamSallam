@@ -10,7 +10,7 @@ Hi there 👋, I'm Eslam from Egypt, and I working in the Software Development f
 ## Skills and Experience
 * 
 *
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EslamSallam&theme=tokyonight&count_private=true) ![EslamSallam's GitHub stats](https://github-readme-stats.vercel.app/api?username=EslamSallam&show_icons=true&theme=tokyonight&count_private=true&show_icons=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EslamSallam&theme=tokyonight&count_private=true&hide=HTML,CSS) ![EslamSallam's GitHub stats](https://github-readme-stats.vercel.app/api?username=EslamSallam&show_icons=true&theme=tokyonight&count_private=true&show_icons=true) 
 
 
 
