@@ -11,7 +11,6 @@ Hi there 👋, I'm Eslam from Egypt, and I working in the Software Development f
 ## Skills and Experience
 *	ASP.Net Core & MVC
 *	C# & VB.net & Python
-*	Data Structures
 *	Visual studio 2019 (live share, Git tools, Adv. Debugging, Testing, Code Analysis)
 *	MYSQL & MSSQL
 *	HTML & CSS & JavaScript & Bootstrap
