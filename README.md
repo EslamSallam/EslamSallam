@@ -15,7 +15,7 @@ Hi there 👋, I'm Eslam from Egypt, and I working in the Software Development f
 *	MYSQL & MSSQL
 *	HTML & CSS & JavaScript & Bootstrap
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=EslamSallam&theme=tokyonight&count_private=true&hide=HTML,CSS,javascript&langs_count=3">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=EslamSallam&theme=tokyonight&count_private=true&hide=HTML,CSS,javascript,SCSS&langs_count=3">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EslamSallam&theme=tokyonight&count_private=true&hide=HTML,CSS,javascript&langs_count=3" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api?username=EslamSallam&show_icons=true&theme=tokyonight&count_private=true&show_icons=true">
